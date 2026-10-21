@@ -90,7 +90,7 @@ is stored in this repo.
 
 ```bash
 pip install -r requirements.txt
-jupyter lab HONGKONGuhfinalGM.ipynb
+jupyter lab HKurbanhfinalgm-4.ipynb
 ```
 
 - Place `hksarboundaries.json` in the same folder as the notebook.
